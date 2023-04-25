@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">Tech Lead - Fullstack Developer</h3>
+<h1>Hi 👋, I'm Leonardo</h1>
+<h3>Tech Lead - Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loliveiraantunes&label=Profile%20views&color=0e75b6&style=flat" alt="loliveiraantunes" /> </p>
 
@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/alphadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alphadev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leonardo-oliveira-9312a2138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-oliveira-9312a2138" height="30" width="40" /></a>
 </p>
 

@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loliveiraantunes&label=Profile%20views&color=0e75b6&style=flat" alt="loliveiraantunes" /> </p>
 
 - ⚡ Fun fact **i'm Minecraft Developer by hobby**
-
+- 🍃 Spring boot Architecture, DDD, TDD, SOLID and Clean Architecture
+- Web Applications
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loliveiraantunes&" alt="loliveiraantunes" /></p>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loliveiraantunes&show_icons=true&locale=en" alt="loliveiraantunes" /></p>

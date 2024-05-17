@@ -2,6 +2,7 @@
 <h3>Tech Lead - Fullstack Developer</h3>
 
 
+[![](https://visitcount.itsvg.in/api?id=Loliveiraantunes&icon=2&color=0)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=Loliveiraantunes&icon=0&color=1)](https://visitcount.itsvg.in)
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=loliveiraantunes&label=Profile%20views&color=0e75b6&style=flat" alt="loliveiraantunes" /> </p>-->
 
@@ -21,5 +22,17 @@
 
 ---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Loliveiraantunes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

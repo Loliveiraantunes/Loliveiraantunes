@@ -1,7 +1,9 @@
 <h1>Hi 👋, I'm Leonardo</h1>
 <h3>Tech Lead - Fullstack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loliveiraantunes&label=Profile%20views&color=0e75b6&style=flat" alt="loliveiraantunes" /> </p>
+
+[![](https://visitcount.itsvg.in/api?id=Loliveiraantunes&icon=0&color=1)](https://visitcount.itsvg.in)
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=loliveiraantunes&label=Profile%20views&color=0e75b6&style=flat" alt="loliveiraantunes" /> </p>-->
 
 - ⚡ Fun fact **i'm Minecraft Developer by hobby**
 - 🍃 Spring boot Architecture, DDD, TDD, SOLID and Clean Architecture
